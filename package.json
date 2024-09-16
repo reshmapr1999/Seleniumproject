@@ -1,0 +1,9 @@
+{ "scripts": {
+  "test": "mocha swag.spec.js"
+},
+  "dependencies": {
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.24.1"
+  }
+ 
+}
